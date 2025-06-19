@@ -1,10 +1,10 @@
-*# 🎬 MovieLand*
+ **🎬 MovieLand**
 
 Welcome to **MovieLand** – a simple and elegant movie-themed website created as part of **TASK 1 - Basics of Web Development**. This project is a showcase of foundational skills in **HTML**, **CSS**, and **JavaScript** through the development of a visually appealing and interactive movie website.
 
 ---
 
-*## 📌 Features*
+**📌 Features**
 
 - 🎥 **Hero Section**: A visually captivating banner with a smooth scroll-to-content button.
 - 🔥 **Trending Movies**: Responsive movie grid layout featuring popular films with poster, rating, and a watchlist option.
@@ -13,7 +13,7 @@ Welcome to **MovieLand** – a simple and elegant movie-themed website created a
 
 ---
 
-*## 🛠️ Built With*
+**🛠️ Built With**
 
 - ✅ **HTML5** – For semantic page structure.
 - 🎨 **CSS3** – For styling and layout (including flex and grid).
@@ -21,13 +21,13 @@ Welcome to **MovieLand** – a simple and elegant movie-themed website created a
 
 ---
 
-*## 📁 Project Structure*
+**📁 Project Structure**
 
 movieland/ │ ├── index.html          # Main HTML file ├── style.css           # Styles for layout and design ├── script.js           # JavaScript for dynamic features └── images/             # Folder containing movie posters & hero images
 
 ---
 
-## 📚 Task Info
+**📚 Task Info**
 
 - **Task Name**: Basics of Web Development  
 - **Task No**: 1  
