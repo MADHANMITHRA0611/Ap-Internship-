@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MovieLand</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>🎬 MovieLand</h1>
+    <p>Where stories come alive</p>
+    <a href="#trending" class="scroll-btn">Explore Movies ↓</a>
+  </header>
+
+  <section id="trending" class="trending">
+    <h2>🔥 Trending Now</h2>
+    <div class="movie-grid">
+      <div class="movie-card">
+        <img src="images/inception.jpg" alt="Inception">
+        <h3>Inception</h3>
+        <p>⭐ 8.8</p>
+        <button onclick="addToWatchlist('Inception')">Add to Watchlist</button>
+      </div>
+      <div class="movie-card">
+        <img src="images/interstellar.jpg" alt="Interstellar">
+        <h3>Interstellar</h3>
+        <p>⭐ 8.6</p>
+        <button onclick="addToWatchlist('Interstellar')">Add to Watchlist</button>
+      </div>
+      <div class="movie-card">
+        <img src="images/darkknight.jpg" alt="The Dark Knight">
+        <h3>The Dark Knight</h3>
+        <p>⭐ 9.0</p>
+        <button onclick="addToWatchlist('The Dark Knight')">Add to Watchlist</button>
+      </div>
+      <div class="movie-card">
+        <img src="images/avatar.jpg" alt="Avatar">
+        <h3>Avatar</h3>
+        <p>⭐ 7.9</p>
+        <button onclick="addToWatchlist('Avatar')">Add to Watchlist</button>
+      </div>
+      <div class="movie-card">
+        <img src="images/dune.jpg" alt="Dune">
+        <h3>Dune</h3>
+        <p>⭐ 8.1</p>
+        <button onclick="addToWatchlist('Dune')">Add to Watchlist</button>
+      </div>
+      <div class="movie-card">
+        <img src="images/oppenheimer.jpg" alt="Oppenheimer">
+        <h3>Oppenheimer</h3>
+        <p>⭐ 8.4</p>
+        <button onclick="addToWatchlist('Oppenheimer')">Add to Watchlist</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="rate">
+    <h2>⭐ Rate a Movie</h2>
+    <div class="stars" id="stars">
+      <span data-value="1">★</span>
+      <span data-value="2">★</span>
+      <span data-value="3">★</span>
+      <span data-value="4">★</span>
+      <span data-value="5">★</span>
+    </div>
+    <p id="rating-msg"></p>
+  </section>
+
+  <section class="trailers">
+    <h2>🎥 Trailers</h2>
+    <div class="trailer-grid">
+      <iframe src="https://www.youtube.com/embed/YoHD9XEInc0" title="Inception Trailer" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/zSWdZVtXT7E" title="Interstellar Trailer" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/EXeTwQWrcwY" title="The Dark Knight Trailer" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/uYPbbksJxIg" title="Oppenheimer Trailer" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
