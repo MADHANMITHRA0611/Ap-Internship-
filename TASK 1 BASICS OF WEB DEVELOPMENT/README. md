@@ -1,0 +1,31 @@
+# 🎬 MovieLand
+
+Welcome to **MovieLand** – a simple and elegant movie-themed website created as part of **TASK 1 - Basics of Web Development**. This project showcases fundamental skills in **HTML, CSS, and JavaScript**.
+
+## 📌 Features
+
+- **Hero Section**: Eye-catching landing banner with a call-to-action scroll button.
+- **Trending Movies**: A responsive grid showcasing popular movies with ratings and a "Add to Watchlist" feature.
+- **Star Rating System**: Interactive section where users can rate a movie using a 1–5 star system.
+- **Embedded Trailers**: YouTube trailers of featured movies embedded in a responsive layout.
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
+
+---
+
+## 📁 Project Structure
+
+movieland/ │ ├── index.html         # Main HTML file ├── style.css          # Styling for the website ├── script.js          # Interactivity (watchlist & rating) └── images/            # Movie and hero section images
+---
+
+📚 Task Info
+
+Task Name: Basics of Web Development
+Task No: 1
+Objective: Create a simple movie website using only HTML, CSS, and JavaScript.
