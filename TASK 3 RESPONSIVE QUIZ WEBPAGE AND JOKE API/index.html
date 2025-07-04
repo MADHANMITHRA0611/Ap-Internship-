@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz and Joke App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>🎯 Interactive Quiz</h2>
+    <div class="quiz-section">
+      <div id="question"></div>
+      <div id="options"></div>
+      <div id="result" style="margin-top:10px; font-weight: bold;"></div>
+      <button class="btn" onclick="nextQuestion()">Next Question</button>
+    </div>
+
+    <hr/>
+
+    <h2>😂 Joke Generator</h2>
+    <div class="joke-section">
+      <div id="joke" style="margin-bottom:10px;">Click "Next Joke" to laugh!</div>
+      <button class="btn" onclick="getJoke()">Next Joke</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
