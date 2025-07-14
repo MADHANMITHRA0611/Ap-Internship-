@@ -1,15 +1,15 @@
 
 
-🌟🌟 ADVANCED STYLING & JAVASCRIPT – TASK 3🌟🌟
+## 🌟🌟 ADVANCED STYLING & JAVASCRIPT – TASK 3🌟🌟
 
-📁 PROJECT REPOSITORY
+## 📁 PROJECT REPOSITORY
 
 🧠 A creative and interactive front-end task using advanced CSS and JavaScript — including quizzes, live API data, and responsive design.
 
 
 ---
 
-🔗 🎯 PROJECT OVERVIEW
+##  🎯 PROJECT OVERVIEW
 
 This project is part of my front-end development internship at ApexPlanet Software Pvt Ltd. It demonstrates how I applied JavaScript logic, CSS responsiveness, and API integration to build real-time, interactive components.
 
@@ -20,24 +20,24 @@ From DOM manipulation to API calls, each part was built with usability and respo
 
 ---
 
-🔗 🧩 CORE OBJECTIVES
+##  🧩 CORE OBJECTIVES
 
-1️⃣ RESPONSIVE DESIGN WITH MEDIA QUERIES
+## 1️⃣ RESPONSIVE DESIGN WITH MEDIA QUERIES
 
 Used CSS media queries to make the layout adapt across mobile, tablet, and desktop screens. Styled using Flexbox and Grid to maintain clean visual hierarchy.
 
-2️⃣ INTERACTIVE QUIZ USING JAVASCRIPT
+## 2️⃣ INTERACTIVE QUIZ USING JAVASCRIPT
 
 Built a functional Quiz App that tracks answers, gives feedback, and allows users to restart the quiz. Leveraged event listeners, arrays, and conditional logic. 🧠✅
 
-3️⃣ LIVE JOKE GENERATOR USING JOKEAPI
+## 3️⃣ LIVE JOKE GENERATOR USING JOKEAPI
 
 Used fetch() and async/await to pull random jokes from 🔗 JokeAPI and display them dynamically. Added error handling, loading states, and formatting for both single-line and two-part jokes. 😂🌐
 
 
 ---
 
-🔗 🧠 KEY LEARNINGS
+##  🧠 KEY LEARNINGS
 
 Strengthened understanding of DOM manipulation
 
@@ -55,7 +55,7 @@ Enhanced UX through loading indicators, feedback messages, and conditional logic
 
 ---
 
-🔗 🚀 FINAL DELIVERABLES
+##  🚀 FINAL DELIVERABLES
 
 ✔️ Responsive layout using media queries
 ✔️ Interactive multi-question quiz with scoring
@@ -65,7 +65,7 @@ Enhanced UX through loading indicators, feedback messages, and conditional logic
 
 ---
 
-🔗 📁 PROJECT STRUCTURE
+##  📁 PROJECT STRUCTURE
 
 📦 project-root/
 ├── 📂 responsive-design/
@@ -87,7 +87,7 @@ Enhanced UX through loading indicators, feedback messages, and conditional logic
 
 ---
 
-🔗 🔮 FUTURE IMPROVEMENTS
+##  🔮 FUTURE IMPROVEMENTS
 
 🧩 Add quiz timer and difficulty levels
 
@@ -103,18 +103,18 @@ Enhanced UX through loading indicators, feedback messages, and conditional logic
 
 ---
 
-🔗 🏷️ TAGS & TOOLS
+##  🏷️ TAGS & TOOLS
 
 #HTML5 #CSS3 #JavaScript #ResponsiveDesign #JokeAPI #QuizApp
 #FrontendDevelopment #AsyncJS #MediaQueries #DOMManipulation #MiniProjects 💡💻
 
-🔗 GitHub Repository: Ap-Internship-
-🔗 Joke API: https://jokeapi.dev
+##  GitHub Repository: Ap-Internship-
+##  Joke API: https://jokeapi.dev
 
 
 ---
 
-🔗 Feel free to fork, explore, or connect!
+##  Feel free to fork, explore, or connect!
 ⭐ Feedback and stars are always appreciated. Let’s build something great together! 🚀
 
 
